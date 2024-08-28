@@ -1,0 +1,23 @@
+{
+  "app_name": "Twilight Zone",
+  "version": "0.1",
+  "author": "[R3D4CT3D]",
+  "description": "An advanced PDF processing and analysis tool",
+  "watched_folder": "input",
+  "processing_folder": "IN_PROGRESS",
+  "output_folder": "output",
+  "issues_folder": "failed",
+  "compressed_folder": "original_pdfs_for_compression",
+  "history_file": {
+    "directory": "Docs",
+    "name": "History.csv"
+  },
+  "log_file": {
+    "directory": "logs",
+    "name": "log.log"
+  },
+  "nltk": {
+    "download_data": true,
+    "stopwords": true
+  }
+}

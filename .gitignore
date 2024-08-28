@@ -1,0 +1,4 @@
+.vscode
+pdf_breaker_venv
+twilight_zone.env
+logs/*
